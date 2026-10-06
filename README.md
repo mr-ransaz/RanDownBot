@@ -2,6 +2,7 @@
 RanDownBot
 
 Telegram bot: downloads videos and audio from YouTube, TikTok and Instagram
+##At the moment, the bot works by invitation, text to the author to get the access!!!
 
 [LINK](https://t.me/RanDownBot)
 
