@@ -9,7 +9,7 @@ These previews are labelled placeholders, not application captures. Replace them
 
 | View | Placeholder | Required real file |
 | --- | --- | --- |
-| Profile Pictuce | ![Placeholder: dark interface](docs/images/pfp.png) | `docs/images/pfp.png` |
-| Telegram Profile | ![Placeholder: queue](docs/images/profile.png) | `docs/images/profile.png` |
-| QR | ![Placeholder: settings](docs/images/qr.png) | `docs/images/qr.png` |
+| Profile Pictuce | ![Placeholder: Profile Pictuce](docs/images/pfp.png) | `docs/images/pfp.png` |
+| Telegram Profile | ![Placeholder: Telegram Profile](docs/images/profile.png) | `docs/images/profile.png` |
+| QR | ![Placeholder: QR](docs/images/qr.png) | `docs/images/qr.png` |
 | About | ![Placeholder: About](docs/images/about.png) | `docs/images/about.png` |
