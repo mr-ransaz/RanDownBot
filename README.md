@@ -3,6 +3,8 @@ RanDownBot
 
 Telegram bot: downloads videos and audio from YouTube, TikTok and Instagram
 
+[LINK](t.me/RanDownBot)
+
 ## Screenshots
 
 These previews are labelled placeholders, not application captures. Replace them with the PNG files in the [screenshot checklist](docs/images/README.md), then update these image links.
